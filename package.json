@@ -5,12 +5,9 @@
   "author": "paithiov909",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paithiov909/kumaneko.git"
+    "url": "https://github.com/lyrikuso/kumaneko.git"
   },
-  "bugs": {
-    "url": "https://github.com/paithiov909/kumaneko/issues"
-  },
-  "homepage": "https://github.com/paithiov909/kumaneko#readme",
+  "homepage": "https://github.com/lyrikuso/kumaneko#readme",
   "license": "MIT",
   "engines": {
     "node": "12.x",
